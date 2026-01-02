@@ -1,0 +1,80 @@
+https://kisansamadhan.com/crops-production/
+https://soilhealth.dac.gov.in/home
+https://keymakr.com/blog/predicting-the-bounty-ai-powered-crop-yield-prediction-and-harvest-optimization/
+
+Lovable – https://lovable.dev
+V0.dev – https://v0.dev
+Clerk – https://clerk.dev
+Supabase – https://supabase.com
+LangChain – https://www.langchain.com
+Vercel – https://vercel.com
+Railway – https://railway.app
+Readme.so – https://readme.so
+
+https://github.com/ankitaS11/Crop-Yield-Prediction-in-India-using-ML
+
+https://docs.google.com/presentation/d/1nBKlBap0egSzb3SnsEVJoTSlSu_8dt8L/edit?usp=drivesdk&ouid=102461127760850607806&rtpof=true&sd=true
+https://1drv.ms/p/c/b8c23e187b0ba2bf/EapoGwWjGzBJhnfw-ItopCgBwhuHYzQ0vTObThTuDqKvuA?e=ZtWAsf
+
+https://share.google/Me2uQ9KsQZGA5GHQM
+
+“Designing/developing more efficient and suitable jute ribboner machine to extract bark/fibre for enhancing in-situ retting technology of jute.”
+This sentence refers to engineering improvements aimed at making the jute fibre extraction and retting process more effective, faster, and environmentally friendly.
+1. Background: Jute and Retting
+🪶 What is Jute?
+Jute is a natural bast fibre obtained from the stem or bark of Corchorus plants. It’s widely used for making sacks, ropes, mats, bags, and eco-friendly textiles.
+🌿 What is Retting?
+Retting is the process of separating jute fibres from the woody stem (stick) and bark by microbial decomposition of the gummy substances (pectin, lignin, etc.) that bind them together.
+Traditionally, retting is done by immersing harvested jute bundles in water (pond, canal, or river). However:
+It requires large volumes of water,
+It’s time-consuming (10–20 days),
+It often produces variable fibre quality, and
+Water pollution can occur.
+Hence, researchers are developing in-situ retting technologies—retting that can occur directly in the field with less water and better control.
+2. What is a Jute Ribboner Machine?
+A jute ribboner is a mechanical device used to strip off the bark or outer layer (which contains the fibre) from the jute stalk.
+Instead of immersing the whole plant stem, ribboners allow farmers to:
+Mechanically peel the bark (ribbons) from the stalk,
+Ret the ribbons only, which requires much less water, and
+Ret them on-site (in-situ) in small water bodies, pits, or tanks.
+Thus, the machine prepares the material for efficient in-situ retting.
+3. Why Design/Develop a More Efficient and Suitable Ribboner?
+The statement calls for improvement in existing ribboner technology. Here’s why:
+Problems with Current Ribboners
+Many are manually operated and labour-intensive.
+Fibre extraction may be non-uniform, reducing quality.
+Machines may not suit different jute varieties (soft/hard bark).
+Field conditions (muddy, wet, uneven land) make current models hard to use.
+Lack of portability and durability.
+High cost or maintenance issues.
+4. Goals of Designing a Better Jute Ribboner
+A more efficient and suitable jute ribboner machine should aim to:
+Goal	Description
+Efficiency	Extract bark/fibre faster with minimal manpower and power consumption.
+Suitability	Adaptable to field conditions, usable by small farmers, affordable.
+Quality Improvement	Ensure uniform ribboning for consistent retting and fibre quality.
+Water Saving	Facilitate in-situ retting with less water compared to traditional methods.
+User-Friendly	Easy operation, maintenance, and portability.
+Durability	Rugged design for field use (muddy, moist conditions).
+5. Enhancing In-situ Retting Technology
+The main objective of improving the ribboner is to enhance the in-situ retting process.
+When bark is stripped using a ribboner:
+Only the ribbons (not the whole stem) are retted.
+This reduces water use by 40–60%.
+Retting time is shorter because water and microbes penetrate more easily.
+The resulting fibre is cleaner, stronger, and shinier.
+Retting can be done in small pits or tanks near the field, avoiding long transportation.
+Thus, a good ribboner improves both the retting process and the final fibre quality.
+6. Summary of the Statement (in Plain Language)
+The statement means:
+We aim to design and develop a more efficient, farmer-friendly jute ribboner machine that can effectively strip jute bark or fibre from stems, thereby improving the in-situ retting process. This will make jute fibre extraction faster, less water-intensive, more sustainable, and result in better-quality fibre.
+7. Broader Impact
+🌱 Environmental Benefits: Less water pollution and reduced use of pond water.
+👨‍🌾 Economic Benefits: Reduced labour and faster processing → higher farmer income.
+🏭 Industrial Benefits: Consistent fibre quality for mills.
+♻️ Sustainability: Supports eco-friendly jute production aligned with green technology initiatives.
+
+https://share.google/images/vOyu2NC1A0bVElooI
+https://share.google/images/sUu5MRTjLmzLbYVFi
+https://youtu.be/hdwjEH6e4ow?si=wGK53QzZESx6OYad
+https://1drv.ms/p/c/b8c23e187b0ba2bf/EbTiXWgIppFJkIt2WTqu_LIBSqdDyN1SjPLRRAUYflFR5g?e=DILs2t
