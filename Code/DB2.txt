@@ -1,4 +1,4 @@
-Excellent question. Connecting the MySQL database to the backend is a fundamental step in building the Krishi Mitra platform. Here’s a detailed breakdown of how to do it, covering concepts, technologies, and practical code examples.
+
 
 ### **Architecture Overview**
 
